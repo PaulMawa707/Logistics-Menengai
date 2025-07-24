@@ -1,0 +1,11 @@
+pyproj
+streamlit
+pandas
+requests
+pdfplumber
+numpy
+scikit-learn
+shapely
+geopandas
+pytz
+openpyxl
